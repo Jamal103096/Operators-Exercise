@@ -1,0 +1,15 @@
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.deps.json
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.runtimeconfig.json
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.dll
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.pdb
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfo.cs
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.sourcelink.json
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.dll
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/refint/OperatorExercise.dll
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.pdb
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.genruntimeconfig.cache
+/Users/Brooks/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/ref/OperatorExercise.dll
